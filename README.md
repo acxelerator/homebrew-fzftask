@@ -8,6 +8,7 @@ tasks.
 
 ```bash
 brew tap acxelerator/fzftask
+brew trust acxelerator/fzftask   # Homebrew 6.0+ requires trusting third-party taps
 brew install fzftask
 ```
 
